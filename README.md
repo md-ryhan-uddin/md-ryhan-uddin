@@ -43,16 +43,16 @@ I am passionate about developing **intelligent, real-world integrated systems**.
 <table>
   <tr>
     <td width="33%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Ryhan9834&show_icons=true&theme=radical&hide_border=true" width="300" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=md-ryhan-uddin&show_icons=true&theme=radical&hide_border=true" width="300" alt="GitHub Stats" />
     </td>
         <td width="33%" align="center">
             <a href="https://github.com/Ryhan9834">
-                <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ryhan9834&theme=radical&hide_border=true&area=true&legend_font_size=300" width="300" alt="Activity Graph" />
+                <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-ryhan-uddin4&theme=radical&hide_border=true&area=true&legend_font_size=300" width="300" alt="Activity Graph" />
             </a>
         </td>
     <td width="33%" align="center" style="padding: 0 10px;">
         <a href="https://git.io/streak-stats">
-            <img src="https://streak-stats.demolab.com?user=Ryhan9834&theme=dark&hide_border=true" width="300" alt="GitHub Streak" />
+            <img src="https://streak-stats.demolab.com?user=md-ryhan-uddin&theme=dark&hide_border=true" width="300" alt="GitHub Streak" />
         </a>
     </td>
   </tr>
