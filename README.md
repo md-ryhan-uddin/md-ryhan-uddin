@@ -62,7 +62,7 @@ I am passionate about developing **intelligent, real-world integrated systems**.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/md-ryhan-uddin-b3b253220/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://github.com/Ryhan9834"><img src="https://img.shields.io/badge/GitHub-100000?logo=github" alt="GitHub" /></a>
+  <a href="https://github.com/md-ryhan-uddin"><img src="https://img.shields.io/badge/GitHub-100000?logo=github" alt="GitHub" /></a>
   <a href="mailto:mdryhanuddin9834@gmail.com"><img src="https://img.shields.io/badge/Email-blue?logo=gmail" alt="Email" /></a>
   <a href="https://www.researchgate.net/profile/Ryhan_Uddin"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate" alt="ResearchGate" /></a>
   <a href="https://scholar.google.com/citations?user=yHUGPNUAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar" alt="Google Scholar" /></a>
