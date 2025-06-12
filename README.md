@@ -3,14 +3,14 @@
 <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /> -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&duration=4000&pause=1000&color=FFDD00&center=true&vCenter=true&width=500&height=40&lines=Machine+Learning+Engineer;IEEE+Student+Member;Open+Source+Enthusiast;Python+%7C+Deep+Learning" alt="Md. Ryhan Uddin Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&duration=4000&pause=1000&color=FFDD00&center=true&vCenter=true&width=500&height=40&lines=Machine+Learning+Enthusiast;IEEE+Student+Member;Open+Source+Enthusiast;Python+%7C+Deep+Learning" alt="Md. Ryhan Uddin Typing SVG" />
 </div>
 
 ---
 
 ## 💻 About Me
 
-I am a **Machine Learning Engineer at Magnetism Tech Limited** and a proud **IEEE member**.  
+I am a **Machine Learning Enthusiast** and a proud **IEEE member**.  
 I earned my **BSc in Electronics and Telecommunication Engineering** from **Chittagong University of Engineering and Technology (CUET), Bangladesh**, in 2024.  
 
 I specialize in **machine learning**, **cross-modal information retrieval**, **Bengali NLP**, **VLSI**, and **electronics integration**.  
@@ -61,7 +61,6 @@ I am passionate about developing **intelligent, real-world integrated systems**.
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/md-ryhan-uddin-b3b253220/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn" /></a>
   <a href="https://github.com/md-ryhan-uddin"><img src="https://img.shields.io/badge/GitHub-100000?logo=github" alt="GitHub" /></a>
   <a href="mailto:mdryhanuddin9834@gmail.com"><img src="https://img.shields.io/badge/Email-blue?logo=gmail" alt="Email" /></a>
   <a href="https://www.researchgate.net/profile/Ryhan_Uddin"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate" alt="ResearchGate" /></a>
